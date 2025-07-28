@@ -26,3 +26,4 @@ EXPOSE 8080
 
 # Start the Next.js app
 CMD ["node", "server.js"]
+
